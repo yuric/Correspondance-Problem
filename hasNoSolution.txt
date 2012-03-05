@@ -1,0 +1,5 @@
+5
+ab b
+ab aa
+ba a
+#END

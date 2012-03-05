@@ -1,0 +1,7 @@
+5
+a ab
+b ca
+ca a
+a ab
+abc c
+#END
