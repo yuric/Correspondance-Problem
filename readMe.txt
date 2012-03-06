@@ -11,7 +11,7 @@ bb ba
 b bb
 #END
 
-Everything from the end on is ignored.
+Everything from the end on is ignored. This can be used as input for the program.
 
 The first number at the beginning of the file is the limit of consecutive tiles to try.
           ex. a "3" at the beginning of the document will stop right before combination { 1,1,1,1}
